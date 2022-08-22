@@ -1,0 +1,32 @@
+[
+    {
+        "zipcode": "01262",    
+        "city": "Stockbridge",
+        "county": "Berkshire"
+    },
+    {
+        "zipcode": "02881",
+        "city": "Kingston",
+        "county": "Washington"
+    },
+    {
+        "zipcode": "03470",
+        "city": "Winchester",
+        "county": "Cheshire"
+    },
+    {
+        "zipcode": "14477",
+        "city": "Kent",
+        "county": "Orleans"
+    },
+    {
+        "zipcode": "28652",
+        "city": "Minneapolis",
+        "county": "Avery"
+    },    
+    {
+        "zipcode": "98101",
+        "city": "Seattle",
+        "county": "King"
+    }
+]
