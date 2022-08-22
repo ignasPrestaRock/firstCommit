@@ -36,7 +36,7 @@ $result = mysqli_query($mysqli, $sql);
 while ($table = mysqli_fetch_array($result)) {
     echo('Table: ' . $table[0] . "<BR>");
 }
-
+//123
 function selectFromPerson($mysqli)
 {
     $sql = "SELECT * FROM Person";
